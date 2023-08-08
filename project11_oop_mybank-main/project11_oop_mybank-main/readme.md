@@ -28,7 +28,7 @@ Install Inquirer , chalk or chalk-animation helping in your project.
         npm i prompt
         npm i -D @types/prompt
 
-sensei_oop_mybank use this command 
+#### Sensei_oop_mybank use this command 
 
         npx sensei_oop_mybank 
 

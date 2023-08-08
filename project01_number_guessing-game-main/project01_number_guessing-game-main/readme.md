@@ -26,7 +26,7 @@ Install Inquirer , chalk or chalk-animation helping in your project.
         npm i chalk-animation
         npm i -D @types/chalk-animation
 
-number-gusesing-game project use this command:
+#### Number-gusesing-game project use this command:
 
         npx sensei_number_guessing-game
 

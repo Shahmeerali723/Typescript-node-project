@@ -26,7 +26,7 @@ Install Inquirer , chalk or chalk-animation helping in your project.
         npm i chalk-animation
         npm i -D @types/chalk-animation
 
-sensei_atm project use this command:
+#### Sensei_atm project use this command:
 
         npx sensei_atm
 

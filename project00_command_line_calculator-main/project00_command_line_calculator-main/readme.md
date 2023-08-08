@@ -25,8 +25,8 @@ Install Inquirer , chalk or chalk-animation helping in your project.
         npm i chalk-animation
         npm i -D @types/chalk-animation
 
-cli project use this command:
+#### Cli project use this command:
 
-npx sensei-cli
+        npx sensei-cli
 
 -->

@@ -27,7 +27,7 @@ Install Inquirer , chalk or chalk-animation helping in your project.
         npm i figlet
         npm i -D @types/figlet
         
-sensei_word_counter project use this command:
+#### Sensei_word_counter project use this command:
 
         npx sensei_word_counter
 

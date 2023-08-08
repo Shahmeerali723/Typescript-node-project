@@ -32,7 +32,7 @@ Install Inquirer , chalk or chalk-animation helping in your project.
         npm i prompt
         npm i -D @types/prompt
 
-sensei_student_management_system use this command 
+#### Sensei_student_management_system use this command 
         
         npx sensei_student_management_system
 

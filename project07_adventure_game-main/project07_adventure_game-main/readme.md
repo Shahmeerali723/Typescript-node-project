@@ -28,7 +28,7 @@ Install Inquirer , chalk or chalk-animation helping in your project.
         npm i prompt
         npm i -D @types/prompt
 
-sensei_adventure_game use this command.
+#### Sensei_adventure_game use this command.
         
         npx sensei_sensei_adventure_game
 

@@ -1,0 +1,20 @@
+{
+  "name": "sensei_oop_mybank",
+  "version": "1.1.0",
+  "description": "In this project you are going to follow this [video](https://www.youtube.com/watch?v=pzZGlU0n2IU) which explains object oriented programming using C# and write the same code in TypeScript.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^3.1.0",
+    "prompt": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/prompt": "^1.1.4"
+  }
+}

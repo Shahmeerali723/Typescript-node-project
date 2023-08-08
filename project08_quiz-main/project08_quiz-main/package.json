@@ -1,0 +1,27 @@
+{
+  "name": "sensei_quiz",
+  "version": "1.0.0",
+  "description": "The app will show the students multiple choice questions and promt the user to reply. In the end it will show the students the result of the quiz.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/chalk-animation": "^1.6.1",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.18",
+    "@types/prompt": "^1.1.4"
+  },
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.1.4",
+    "openai": "^3.1.0",
+    "prompt": "^1.3.0"
+  }
+}

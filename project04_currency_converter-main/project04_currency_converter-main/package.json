@@ -1,0 +1,29 @@
+{
+  "name": "sensei_currency_converter",
+  "version": "1.1.0",
+  "description": "The TypeScript console app is used to convert currencies: the users enter a certain amount of money in one currency and set the currency they want to check the monetary value of.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/chalk-animation": "^1.6.1",
+    "@types/figlet": "^1.5.5",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.17"
+  },
+  "dependencies": {
+    "00_todo_list": "^1.3.0",
+    "00_word_counter": "^1.0.0",
+    "chalk": "^5.2.0",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.5.2",
+    "inquirer": "^9.1.4",
+    "sensei_currency_converter": "^1.0.0"
+  }
+}

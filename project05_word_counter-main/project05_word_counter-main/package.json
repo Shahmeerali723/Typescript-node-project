@@ -1,0 +1,27 @@
+{
+  "name": "sensei_word_counter",
+  "version": "1.1.0",
+  "description": "this sensei_word_counter somewhat complex TypeScript/Node.js project is a console-based application. When the system starts the user is prompted write a paragraph . After entering the details successfully, the sensei_word_counter functionalities. All the user data is generated randomly",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.5.2",
+    "inquirer": "^9.1.4",
+    "sensei_word_counter": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/chalk-animation": "^1.6.1",
+    "@types/figlet": "^1.5.5",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.18"
+  }
+}

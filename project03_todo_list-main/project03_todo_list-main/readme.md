@@ -26,7 +26,7 @@ Install Inquirer , chalk or chalk-animation helping in your project.
         npm i chalk-animation
         npm i -D @types/chalk-animation
 
-sensei_todo_list project use this command:
+#### Sensei_todo_list project use this command:
 
         npx sensei_todo_list 
 

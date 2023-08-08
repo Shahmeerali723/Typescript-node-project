@@ -27,7 +27,7 @@ Welcome to Typescript node project! This repository contains a collection of CLI
 1. **Clone the repository:**
 
     ```sh
-    git clone 
+    git clone https://github.com/Shahmeerali723/Typescript-node-project
     ```
 
 2. **Navigate to the project folder:**

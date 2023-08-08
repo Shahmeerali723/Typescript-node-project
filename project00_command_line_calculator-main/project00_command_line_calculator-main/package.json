@@ -1,0 +1,27 @@
+{
+  "name": "sensei-cli",
+  "version": "1.0.0",
+  "description": "This Command-Line-Calculater is a short TypeScript/Node.js project that allows the user to calcutae the number by the computer. There are also several ways to alter the cli, like adding more rounds or displaying the score. It’s quite simple and uses the random function to calcutae a number.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/chalk-animation": "^1.6.1",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.12"
+  },
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.1.4",
+    "sensei-cli": "^1.0.0",
+    "sensei-cli1": "^1.1.0"
+  }
+}

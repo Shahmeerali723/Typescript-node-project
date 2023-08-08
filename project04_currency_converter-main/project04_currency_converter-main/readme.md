@@ -30,7 +30,7 @@ Install Inquirer , chalk or chalk-animation helping in your project.
         npm i figlet
         npm i -D @types/figle
         t
-sensei_currency_converter project use this command:
+#### Sensei_currency_converter project use this command:
 
         npx sensei_currency_converter
  -->

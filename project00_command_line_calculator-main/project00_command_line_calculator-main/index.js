@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 import chalk from "chalk";
-// import gradient from "gradient-string";
 import inquirer from "inquirer";
 import chalkAnimation from "chalk-animation";
 const sleep = (ms = 2000) => new Promise((resolve, reject) => setTimeout(resolve, ms));
@@ -8,7 +7,7 @@ async function welcome() {
     const rainbowTitle = chalkAnimation.rainbow("--Let's Start Command-Line-Calculator--\n");
     await sleep();
     rainbowTitle.stop();
-    console.log(chalk.rgb(36, 113, 163)(`        
+    console.log(chalk.rgb(36, 113, 164)(`        
         _______________________
         |  _________________  |
         | | Sensei       0. | |

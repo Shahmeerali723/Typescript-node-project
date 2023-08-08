@@ -28,7 +28,7 @@ Install Inquirer , chalk or chalk-animation helping in your project.
         npm i prompt
         npm i -D @types/prompt
 
-sensei_countdown_timer use this command 
+#### Sensei_countdown_timer use this command 
 
         npx sensei_countdown_timer
 
